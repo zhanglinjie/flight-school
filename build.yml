@@ -8,4 +8,4 @@ inputs:
 - name: flight-school
 
 run:
-  path: ./flight-school/ci/test.sh
+  path: ./ci/test.sh
